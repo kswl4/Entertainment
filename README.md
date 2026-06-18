@@ -48,4 +48,4 @@ Looking for inspiration? Here are some datasets worth exploring:
 
 I'm kswl4, a data analytics student passionate about using data to uncover trends in music and entertainment. I hold the **Meta Data Analyst Professional Certificate** from Coursera.
 
-📬 [Email](mailto:your.email@example.com) · [LinkedIn](#) · [Back to Main Portfolio](https://github.com/kswl4)
+📬 [Email](williamskiasha@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kiasha-williams-0492b5187/) · [Back to Main Portfolio](https://github.com/kswl4)

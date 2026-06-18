@@ -18,7 +18,7 @@ A collection of data analytics projects focused on music trends, streaming behav
 
 | # | Project | Description | Tools | Dashboard |
 |---|---|---|---|---|
-| 1 | [What Makes an Artist Go Viral](https://github.com/kswl4/Spotify-artist-popularity-/blob/main/README.md) | | | |
+| 1 | [What Makes an Artist Go Viral](https://github.com/kswl4/Spotify-artist-popularity-/blob/main/README.md) | Analyzed 273,000+ Spotify tracks to identify what drives artist popularity — follower count, energy, and genre| |Python · Tableau  |
 | 2 | Coming Soon | | | |
 | 3 | Coming Soon | | | |
 
